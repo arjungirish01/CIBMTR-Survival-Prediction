@@ -34,6 +34,7 @@ This project explores **machine learning models** and **survival analysis** for 
 ## Project Structure
 
 CIBMTR-Survival-Prediction/
+```text
 ├── data/                # Raw data (ignored in Git)
 ├── notebooks/           # Jupyter notebooks for analysis
 │   └── cibmtr-survival-prediction.ipynb
