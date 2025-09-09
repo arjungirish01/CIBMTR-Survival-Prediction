@@ -53,7 +53,7 @@ CIBTR-SURVIVAL-PREDICTION/
    cd CIBTR-SURVIVAL-PREDICTION
 
 2. Install Dependencies
-   install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run Notebook
   jupyter notebook notebooks/cibmtr-survival-prediction.ipynb
