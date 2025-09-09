@@ -35,8 +35,10 @@ This project explores **machine learning models** and **survival analysis** for 
 
 CIBTR-SURVIVAL-PREDICTION/
 ├── data/ # raw data (ignored in git)
+
 ├── notebooks/
 │ └── cibmtr-survival-prediction.ipynb
+
 ├── src/
 │ ├── preprocessing.py
 │ ├── modeling.py
