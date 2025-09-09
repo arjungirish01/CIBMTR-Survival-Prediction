@@ -33,21 +33,20 @@ This project explores **machine learning models** and **survival analysis** for 
 
 ## Project Structure
 
-CIBTR-SURVIVAL-PREDICTION/
-├── data/ # raw data (ignored in git)
+CIBMTR-Survival-Prediction/
+├── data/                # Raw data (ignored in Git)
+├── notebooks/           # Jupyter notebooks for analysis
+│   └── cibmtr-survival-prediction.ipynb
+├── src/                 # Source code
+│   ├── preprocessing.py # Data preprocessing functions
+│   ├── modeling.py      # Model training functions
+│   └── evaluation.py    # Evaluation metrics and plots
+├── models/              # Saved models (ignored in Git)
+├── requirements.txt     # Project dependencies
+├── README.md            # Project overview
+├── LICENSE              # Project license
+└── .gitignore           # Git ignore file
 
-├── notebooks/
-│ └── cibmtr-survival-prediction.ipynb
-
-├── src/
-│ ├── preprocessing.py
-│ ├── modeling.py
-│ └── evaluation.py
-├── models/ # saved models (ignored in git)
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
 
 ## 🚀 Getting Started
 1. Clone repo  
